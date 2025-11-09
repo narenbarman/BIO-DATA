@@ -1,0 +1,3 @@
+[submodule "bio-app-deploy"]
+	path = bio-app-deploy
+	url = https://github.com/narenbarman/BIO-DATA.git
