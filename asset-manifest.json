@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BIO-DATA/static/css/main.a59b0bcc.css",
+    "main.js": "/BIO-DATA/static/js/main.369ae41e.js",
+    "static/js/453.932cbcde.chunk.js": "/BIO-DATA/static/js/453.932cbcde.chunk.js",
+    "index.html": "/BIO-DATA/index.html",
+    "main.a59b0bcc.css.map": "/BIO-DATA/static/css/main.a59b0bcc.css.map",
+    "main.369ae41e.js.map": "/BIO-DATA/static/js/main.369ae41e.js.map",
+    "453.932cbcde.chunk.js.map": "/BIO-DATA/static/js/453.932cbcde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59b0bcc.css",
+    "static/js/main.369ae41e.js"
+  ]
+}
